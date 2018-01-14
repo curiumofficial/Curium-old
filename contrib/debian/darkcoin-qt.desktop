@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Curium
+Comment=Curium P2P Cryptocurrency
+Exec=/usr/bin/curium-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/curium128.png
+MimeType=x-scheme-handler/curium;
+Categories=Office; Finance;
