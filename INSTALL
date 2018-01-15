@@ -1,0 +1,9 @@
+Building Curium
+
+See doc/readme-qt.rst for instructions on building Curium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Curium.
+
+See doc/build-*.txt for instructions on building curiumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Curium.

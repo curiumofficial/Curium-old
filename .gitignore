@@ -1,0 +1,38 @@
+src/*.exe
+src/curium
+src/curiumd
+src/test_curium
+.settings
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.curium
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+curium-qt
+Curium-Qt.app
+
+# Unit-tests
+Makefile.test
+curium-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
+.cproject
+.project
+
