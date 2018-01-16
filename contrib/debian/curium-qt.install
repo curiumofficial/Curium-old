@@ -1,0 +1,6 @@
+usr/local/bin/curium-qt usr/bin
+share/pixmaps/curium32.xpm usr/share/pixmaps
+share/pixmaps/curium16.xpm usr/share/pixmaps
+share/pixmaps/curium128.png usr/share/pixmaps
+debian/curium-qt.desktop usr/share/applications
+debian/curium-qt.protocol usr/share/kde4/services/

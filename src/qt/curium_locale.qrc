@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/curium_bg.qm</file>
+        <file alias="de">locale/curium_de.qm</file>
+        <file alias="en">locale/curium_en.qm</file>
+        <file alias="es">locale/curium_es.qm</file>
+        <file alias="fi">locale/curium_fi.qm</file>
+        <file alias="fr">locale/curium_fr.qm</file>
+        <file alias="it">locale/curium_it.qm</file>
+        <file alias="ja">locale/curium_ja.qm</file>
+        <file alias="pl">locale/curium_pl.qm</file>
+        <file alias="pt">locale/curium_pt.qm</file>
+        <file alias="ru">locale/curium_ru.qm</file>
+        <file alias="sk">locale/curium_sk.qm</file>
+        <file alias="sv">locale/curium_sv.qm</file>
+        <file alias="vi">locale/curium_vi.qm</file>
+        <file alias="zh_CN">locale/curium_zh_CN.qm</file>
+        <file alias="zh_TW">locale/curium_zh_TW.qm</file>
+    </qresource>
+</RCC>
